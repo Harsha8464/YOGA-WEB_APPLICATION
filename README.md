@@ -1,2 +1,2 @@
 # YOGA-WEB_APPLICATION
-Deploy Web app on AWS S3 Using Github Actions
+Deploy Static Website appliction on AWS S3 Using Github Actions
